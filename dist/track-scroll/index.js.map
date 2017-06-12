@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/track-scroll/index.ts"],"names":[],"mappings":";;;;;AAIA,8CAAyC","sourcesContent":["/**\n * Created by Jose Andres on 02.16.17\n */\n\nexport * from './track-scroll.directive';\n\ninterface DecoratorInvocation {\n  type: Function;\n  args?: any[];\n}\n"]}

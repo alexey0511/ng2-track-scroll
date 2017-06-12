@@ -15,7 +15,6 @@ npm-debug.log
 npm-debug.log.*
 
 # Build and dist for now
-/dist
 /temp
 /logs
 

@@ -1,5 +1,6 @@
 {
   "name": "ng2-track-scroll",
+  "version": "1.0.0",
   "description": "Track Scroll for Angular",
   "author": "Jose Andres <jmandreslopez@gmail.com>",
   "license": "MIT",
